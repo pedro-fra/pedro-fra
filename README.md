@@ -11,7 +11,6 @@ No momento, estou estudando tecnologias voltadas ao desenvolvimento Front-end</h
 <br/><br/><br/><br/>
 
 
-
 <h3 align="center">Linguagens e ferramentas:</h3>
 
 <p align="center"> 
@@ -40,6 +39,7 @@ No momento, estou estudando tecnologias voltadas ao desenvolvimento Front-end</h
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> 
   </a> 
 </p>
+<br/><br/><br/>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fra&theme=react&layout=compact" />
