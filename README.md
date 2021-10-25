@@ -1,14 +1,14 @@
 <h1 align="center">Olá 👋, Eu sou Pedro</h1>
 <h3 align="center">Apaixonado por tecnologia, sou estudante do curso de Engenharia da Computação e trabalho atualmente como DBA SQL Server.
 No momento, estou estudando tecnologias voltadas ao desenvolvimento Front-end</h3>
-
+<br/><br/><br/><br/>
 
 
 - 🌱 Estudando atualmente **React, HTML5, CSS3, SCSS**
 
 - 📫 Meu e-mail para contato: **pedro_delavald@hotmail.com**
 - Meu Linkedin: **https://www.linkedin.com/in/pedrofra/**
-
+<br/><br/><br/><br/>
 
 
 
